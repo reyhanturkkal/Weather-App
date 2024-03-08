@@ -86,19 +86,19 @@ android {
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/cloudyCity-1.jpg" alt="home page"></td>
-    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/cloudyCity-2.jpg" alt="chat page"></td>
+    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/cloudyCity-1.jpg" alt="home page" width="50%" height="auto"></td>
+    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/cloudyCity-2.jpg" alt="chat page" width="50%" height="auto"></td>
   </tr>
     <tr>
-    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/cloudyCity.jpg" alt="home page"></td>
-    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/clearCity.jpg" alt="chat page"></td>
+    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/cloudyCity.jpg" alt="home page" width="50%" height="auto"></td>
+    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/clearCity.jpg" alt="chat page" width="50%" height="auto"></td>
   </tr>
     <tr>
-    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/citySearch.jpg" alt="home page"></td>
-    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/searchingCity.jpg" alt="chat page"></td>
+    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/citySearch.jpg" alt="home page" width="50%" height="auto"></td>
+    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/searchingCity.jpg" alt="chat page" width="50%" height="auto"></td>
   </tr>
   <tr>
-    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/rainyCity.jpg" alt="home page"></td>
-    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/snowyCity.jpg" alt="chat page"></td>
+    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/rainyCity.jpg" alt="home page" width="50%" height="auto"></td>
+    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/snowyCity.jpg" alt="chat page" width="50%" height="auto"></td>
   </tr>
 </table>

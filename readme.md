@@ -90,14 +90,14 @@ android {
     <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/cloudyCity-2.jpg" alt="cloudy"></td>
     <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/cloudyCity.jpg" alt="cloudy"></td>
   </tr>
+      <tr>
+    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/rainyCity.jpg" alt="rainy"></td>
+    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/snowyCity.jpg" alt="snowy"></td>
+    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/clearCity.jpg" alt="clear"></td>
+  </tr>
     <tr>
     <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/citySearch.jpg" alt="search"></td>
     <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/searchingCity.jpg" alt="search"></td>
     <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/citySearching.jpg" alt="search"></td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/rainyCity.jpg" alt="rainy"></td>
-    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/snowyCity.jpg" alt="snowy"></td>
-    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Weather-App/blob/master/assets/clearCity.jpg" alt="clear"></td>
   </tr>
 </table>

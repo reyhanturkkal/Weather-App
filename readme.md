@@ -1,6 +1,6 @@
 # Weather App
 
-This project is a weather application that provides users with detailed weather information for a specific city. The application allows users to view the current weather conditions, including temperature, wind speed, and humidity, as well as a 5-day weather forecast. Users can also select different cities to check the weather details for those locations.
+This weather application follows the <b>MVVM</b> (Model-View-ViewModel) architecture pattern and provides users with detailed weather information for a specific city. The application allows users to view the current weather conditions, including temperature, wind speed, and humidity, as well as a 5-day weather forecast. Users can also select different cities to check the weather details for those locations.
 
 ## OpenWeather API Usage
 
